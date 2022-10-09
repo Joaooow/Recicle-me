@@ -17,7 +17,7 @@ Este site foi desenvolvido para a APS da faculdade UNIP (1° semestre)
 
 ## Acesse o site:
 
-<li> https://joaooow.github.io/Recicle-me/ </li>
+<li> https://joaooowdev.github.io/Recicle-me/ </li>
 
 ## Obs:
 
